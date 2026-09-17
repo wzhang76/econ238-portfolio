@@ -6,7 +6,7 @@ This week, I looked at why major infrastructure and clean-energy projects can be
 
 ## Recorded Conversation
 
-Recording link: [add link here]
+[Listen to the recording](<Week 3 interview.m4a>)
 
 ## Analysis
 
