@@ -23,3 +23,31 @@ Once I include heat and cold deaths, though, the picture gets more complicated. 
 **Source:**  
 National Weather Service, 80-Year List of Severe Weather Fatalities, 1940–2024  
 https://www.weather.gov/media/hazstat/80year_2024.pdf
+
+
+---
+
+## Population-Adjusted Death Intensity
+
+The raw death numbers are useful, but the U.S. population is a lot larger now than it was in the 1940s. Because of that, I decided to use deaths per million people as my “death intensity” measure.This way, a more accurate answer can be obtained.
+
+I calculated it as:
+
+**Death intensity = average annual deaths ÷ average population (in millions)**
+
+![Population-adjusted death table](population-adjusted-table.png)
+
+My biggest discovery is that once the population is taken into account, this decline seems more obvious. For instance, the original death toll in the 1950s was actually higher than that in the 1940s, but the mortality rate per million people was slightly lower. By the 2010s, the mortality rate was only about 0.61 per million people, while it was approximately 1.91 per million people in the 1940s. This is not a completely smooth recession. In the first decade of this century, this ratio rose again, and the period from 2020 to 2024 is not even a complete decade. Despite this, after this survey, we can more clearly see that the probability of ordinary people being exposed to these three extreme weather risks is much lower than the original total number of deaths.
+
+![Storm fatalities per million Americans](poster_chart_2_deaths_per_million.png)
+
+**Sources:**
+
+National Weather Service, Weather Related Fatality and Injury Statistics:  
+https://www.weather.gov/hazstat
+
+U.S. Census Bureau, Historical and Annual Population Estimates:  
+https://www.census.gov/data/tables/time-series/demo/popest/pre-1980-national.html
+
+U.S. Census Bureau, National Population Totals, 2020s:  
+https://www.census.gov/data/datasets/time-series/demo/popest/2020s-national-total.html
