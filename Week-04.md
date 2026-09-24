@@ -51,3 +51,23 @@ https://www.census.gov/data/tables/time-series/demo/popest/pre-1980-national.htm
 
 U.S. Census Bureau, National Population Totals, 2020s:  
 https://www.census.gov/data/datasets/time-series/demo/popest/2020s-national-total.html
+
+
+---
+
+## Are Americans Moving Toward Hurricane Risk?
+
+For this part, I looked at hurricanes. I found a study that compared county-level migration in the United States from 2010 to 2020 with natural hazard risk. The migration data came from the U.S. Census Bureau, and the hurricane risk data came from FEMA.
+
+What I find rather interesting is that this result is not as simple and straightforward as I initially thought. On the surface, regions with a higher risk of hurricanes actually have a greater inflow of population. This phenomenon indicates that places like Florida and Texas, although they have a higher risk of hurricanes, also have other more attractive aspects that attract more attention. For instance, job opportunities, housing, climate and lifestyle, etc. It seems that people give priority to these factors when moving compared to the risk of hurricanes.
+
+However, when the researchers controlled these factors, the results changed very obviously. That is to say, if the variables such as work, income and population density are excluded and only the item of "hurricane risk" is considered, it actually makes people less willing to move in.
+
+Therefore, this study indicates that one cannot simply say that people do not care about risks just because the population in high-risk areas is still growing. Often, people choose to move there because of other benefits rather than because they ignore the risk of hurricanes. These two are not in conflict.
+
+**Source:**
+
+Clark, Mahalia B., Ephraim Nkonya, and Gillian L. Galford.  
+“Flocking to Fire: How Climate and Natural Hazards Shape Human Migration Across the United States.”  
+*Frontiers in Human Dynamics*, 2022.  
+https://www.frontiersin.org/journals/human-dynamics/articles/10.3389/fhumd.2022.886545/full
