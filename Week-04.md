@@ -109,3 +109,27 @@ Therefore, I won't immediately say that the storm will definitely get worse just
 IPCC, Managing the Risks of Extreme Events and Disasters to Advance Climate Change Adaptation (SREX), 2012.
 
 https://www.ipcc.ch/report/managing-the-risks-of-extreme-events-and-disasters-to-advance-climate-change-adaptation/
+
+
+---
+
+## Heat-Related Deaths
+
+Heat deaths look pretty different from the storm deaths I looked at earlier. Tornado, flood, and hurricane deaths generally went down over the long run, but heat deaths do not show the same clear pattern. For example, the NWS recorded 1,021 heat deaths in 1995, which was much higher than the years around it. More recently, the number has also been fairly high, with 350 deaths in 2020, 375 in 2021, 383 in 2022, 555 in 2023, and 529 in 2024.
+
+![Selected U.S. heat-related deaths](poster_chart_3_heat_deaths.png)
+
+The peak in 1995 seems significant as it indicates that temperature itself is not everything. That summer, a strong heatwave hit Chicago. The Centers for Disease Control and Prevention found that the elderly and those without air conditioning were particularly at risk.
+
+For me, this means that dealing with higher temperatures is not just about trying to lower the temperature itself. Air conditioners, warning systems, checking on the elderly, and ensuring that people have cool places to go can also have a significant impact. If extreme high temperatures become more common, these reactions may also become more significant.
+
+**Sources:**
+
+National Weather Service:  
+https://www.weather.gov/media/hazstat/80year_2024.pdf
+
+CDC, Heat-Related Mortality — Chicago, July 1995:  
+https://www.cdc.gov/mmwr/preview/mmwrhtml/00038443.htm
+
+CDC, Heat-Related Deaths — Chicago, Illinois, 1996–2001, and United States, 1979–1999:  
+https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5226a2.htm
