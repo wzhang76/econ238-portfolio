@@ -92,3 +92,20 @@ If moving them to a safer place adds about 10% to the cost, then the extra cost 
 If U.S. GDP is around $31 trillion, then $1.2 billion is only about **0.004% of GDP**.
 
 For me, the main point is that this sounds much smaller than I expected. If buildings are moved in batches gradually when they need to be replaced, perhaps the cost will be much easier than moving all the buildings at once. Of course, this is a rough estimate, as the actual relocation will definitely involve other costs.
+
+
+---
+
+## Disaster Losses
+
+From the report of SREX, I think the main reason for the increase in disaster losses is not merely that the weather itself may be changing. There are also other factors, such as more people, houses and other valuable things being located in areas that might be hit by the storm.
+
+Another important thing is how well a place is prepared. Two places may suffer from similar storms, but the damage caused may vary greatly depending on the buildings, infrastructure, income and the number of people affected.
+
+Therefore, I won't immediately say that the storm will definitely get worse just because I see higher disaster losses. Part of the reason for the increase might be that we have more people and property in dangerous areas.
+
+**Source:**
+
+IPCC, Managing the Risks of Extreme Events and Disasters to Advance Climate Change Adaptation (SREX), 2012.
+
+https://www.ipcc.ch/report/managing-the-risks-of-extreme-events-and-disasters-to-advance-climate-change-adaptation/
