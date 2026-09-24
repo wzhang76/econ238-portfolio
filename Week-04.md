@@ -71,3 +71,24 @@ Clark, Mahalia B., Ephraim Nkonya, and Gillian L. Galford.
 “Flocking to Fire: How Climate and Natural Hazards Shape Human Migration Across the United States.”  
 *Frontiers in Human Dynamics*, 2022.  
 https://www.frontiersin.org/journals/human-dynamics/articles/10.3389/fhumd.2022.886545/full
+
+
+---
+
+## Moving to Higher Ground
+
+For this part, I assumed that large buildings last around 50 years. I also assumed that moving or rebuilding them in a safer place would cost about 10% more than replacing them in the same place. These are just rough estimates, but I think they are reasonable enough for this calculation.
+
+The assignment says that about $600 billion of capital is in hurricane-risk areas. If these buildings are replaced over 50 years, then around:
+
+**$600 billion ÷ 50 = $12 billion**
+
+would be replaced each year.
+
+If moving them to a safer place adds about 10% to the cost, then the extra cost would be:
+
+**$12 billion × 10% = $1.2 billion per year**
+
+If U.S. GDP is around $31 trillion, then $1.2 billion is only about **0.004% of GDP**.
+
+For me, the main point is that this sounds much smaller than I expected. If buildings are moved in batches gradually when they need to be replaced, perhaps the cost will be much easier than moving all the buildings at once. Of course, this is a rough estimate, as the actual relocation will definitely involve other costs.
