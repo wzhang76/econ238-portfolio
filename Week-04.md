@@ -12,7 +12,11 @@ Using the same National Weather Service data, there were a total of 20,387 fatal
 
 The average number of fatalities from these three types of extreme weather was approximately **240 deaths per year** over the entire 1940–2024 period.
 
+![Storm fatalities table](storm-fatalities-table.png)
+
 Looking only at tornado, flood, and hurricane deaths, I would say the general trend has gone down, but definitely not in a straight line. In the earlier decades, the average was usually around 260 to 300 deaths per year. By the 1980s and 1990s, it had dropped to around 170 deaths per year. There are still some periods where the number goes back up, so I would not say the decline is perfectly consistent.
+
+![Average annual storm fatalities chart](poster_chart_1_avg_storm_fatalities.png)
 
 Once I include heat and cold deaths, though, the picture gets more complicated. Heat deaths especially can change a lot from year to year. So I would not simply say that weather-related deaths are falling. A better way to put it is that deaths from tornadoes, floods, and hurricanes have generally become lower over time, but once heat and cold are included, the overall trend is much less clear.
 
