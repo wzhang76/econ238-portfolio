@@ -152,3 +152,16 @@ This paper also made me think more carefully about possible solutions. Air condi
 Burke, Marshall, et al. (2025). *Understanding and Addressing Temperature Impacts on Mortality.* NBER Working Paper No. 34313.
 
 https://www.nber.org/papers/w34313
+
+
+---
+
+## But Waiting...
+
+One thing I think we should pay attention to is that a lower storm mortality rate does not necessarily mean that the storm itself has become less dangerous.
+
+There may be other reasons for the decrease in the number of deaths from these storms. For instance, the current early warning system is better, buildings may be more solid, and based on past experience, people in the entire region may be better prepared than before. Infrastructure and other forms of adaptation can also play a role.
+
+The exploration of Heat's death data has also made me more cautious about summarizing risks. After all, the death toll from heat does not show a significant downward trend like that from tornadoes, floods and hurricanes.
+
+Therefore, I think these data may indicate that the entire society and people have become better at dealing with certain weather risks in the process of constantly accumulating experience, but they cannot serve as evidence that weather hazards themselves have weakened.
