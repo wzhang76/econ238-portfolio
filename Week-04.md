@@ -171,6 +171,6 @@ Therefore, I think these data may indicate that the entire society and people ha
 
 ## Poster
 
-[Download the 18 × 24 Poster PDF](Week-04-Poster..pdf)
+[Download the 18 × 24 Poster PDF](Week-04-Poster-Final.pdf)
 
 <!-- force rebuild -->
