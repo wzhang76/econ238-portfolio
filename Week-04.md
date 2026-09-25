@@ -133,3 +133,22 @@ https://www.cdc.gov/mmwr/preview/mmwrhtml/00038443.htm
 
 CDC, Heat-Related Deaths — Chicago, Illinois, 1996–2001, and United States, 1979–1999:  
 https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5226a2.htm
+
+
+---
+
+## What the Burke Paper Adds
+
+The Burke paper changed how I looked at some of the temperature data. One thing that impressed me deeply was that the paper stated that in all the places they studied, the number of deaths caused by cold was higher than that caused by heat. Before this, I only focused on the aspect of heat. I never expected there to be such a contrast.
+
+This paper also states that the bodies of people living in a specific area can adapt to the climate in which they live. For instance, people living in hot regions may be more adaptable to high-temperature environments than those in other areas. However, this does not mean that the risk of high temperatures will not affect them. Relatively speaking, these people have a better ability to withstand high temperatures.
+
+Another thing I noticed is that the Burke paper and the NWS data are not measuring the same thing. The NWS data count deaths that are directly recorded as weather-related, while the Burke paper estimates temperature-attributable mortality. It is precisely for this reason that I think these figures should not be compared directly.
+
+This paper also made me think more carefully about possible solutions. Air conditioning, heating, housing and other forms of adaptation may be helpful, but the paper also indicates that there is no very strong evidence behind some usually recommended interventions. Therefore, I think we cannot assume that every solution has the same effect, but should discuss them separately.
+
+**Source:**
+
+Burke, Marshall, et al. (2025). *Understanding and Addressing Temperature Impacts on Mortality.* NBER Working Paper No. 34313.
+
+https://www.nber.org/papers/w34313
