@@ -165,3 +165,10 @@ There may be other reasons for the decrease in the number of deaths from these s
 The exploration of Heat's death data has also made me more cautious about summarizing risks. After all, the death toll from heat does not show a significant downward trend like that from tornadoes, floods and hurricanes.
 
 Therefore, I think these data may indicate that the entire society and people have become better at dealing with certain weather risks in the process of constantly accumulating experience, but they cannot serve as evidence that weather hazards themselves have weakened.
+
+
+---
+
+## Poster
+
+[Download the 18 × 24 Poster PDF](Week-04-Poster.pdf)
