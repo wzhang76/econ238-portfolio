@@ -32,7 +32,11 @@ This of course means that it can save a lot of money. Because using less hot wat
 
 ## What This Shows
 
-I will explain the main result here after completing the calculations.
+What impressed me was that even though the difference in the flow rate of showerheads was very small, when accumulated, they could produce a very significant effect and save a family a lot of money. For a 10-minute shower, the difference is only 5 gallons, but if someone takes a shower every day, the difference throughout the year will be much greater.
+
+The results also show that water conservation can generate economic benefits at the same time! Using less hot water not only reduces water consumption but also lowers the energy required to heat water. This is why low-flow showerheads can reduce water usage and household utility costs. 
+
+Another economic perspective is that such a change does not require people to completely alter their daily lives. A low-flow showerhead can automatically reduce resource usage each time you take a bath. From an economic perspective, this is important because the cost of changing behavior is relatively low, and the saved costs will persist over time. Unlike the choice of changing one's lifestyle by relying on people to remind themselves to use less water every day, switching to a WaterSense showerheads is obviously a less costly and easier water-saving strategy.
 
 ## Assumptions and Limitations
 
