@@ -7,3 +7,4 @@ University of Rochester
 - [Week 3 — Building Faster and Environmental Protection](Week-03.md)
 - [Week 4 — Extreme Weather Fatalities in the United States](Week-04.md)
 - [Week 5 — What Does One Billion Tons of CO2 Do?](Week-05-CLIM-08.md)
+- [Week 5 — How Much Water Does a Shower Actually Use?](Week-05-Shower.md)
