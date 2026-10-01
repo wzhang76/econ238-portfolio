@@ -17,6 +17,7 @@ I still checked the sources and the assumptions because a small mistake in the u
 The IPCC gives a best estimate for TCRE of about 0.45°C of warming for every 1,000 GtCO2 emitted.
 
 Using that estimate:
+![Expected warming from different amounts of CO2](clim08_expected_warming.png)
 
 | CO2 Emissions | Expected Warming |
 |---|---:|
