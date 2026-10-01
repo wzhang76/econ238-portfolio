@@ -1,11 +1,11 @@
 # How Much Water Does a Shower Actually Use?
 
 ## The Question
+Taking a shower is a very common thing in people's daily lives, but we seldom really consider how much water we use each time we take a shower.  A few more minutes of shower time may not seem to make much difference, but over time, the extra water usage does accumulate.  And we all know the importance of water conservation, so I wanted to make the differences more intuitive through calculations and charts.
 
-I wanted to see how much water different shower lengths actually use and how much difference a lower-flow showerhead can make.
+In this project, I compared 5 minutes, 10 minutes, and 20 minutes of shower time, using standard showerheads and WaterSense low-flow showerheads respectively.  
 
-For this project, I compare 5-, 10-, and 20-minute showers using a standard showerhead and a WaterSense low-flow showerhead.
-
+After all, I want to explore from the perspective of economic principles whether merely changing the showerhead can have a significant impact on water consumption without forcing people to make major changes to their daily habits.
 ## What I Asked AI to Do
 
 I used AI to help me find reliable flow-rate information, check the calculations, compare the different shower lengths, and think about the clearest way to show the results.
