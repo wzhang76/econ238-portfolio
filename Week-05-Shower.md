@@ -12,7 +12,19 @@ I used AI to help me find reliable flow-rate information, check the calculations
 
 ## The Results
 
-Results will be added here.
+The EPA says a standard showerhead uses about 2.5 gallons of water per minute, while a WaterSense labeled showerhead uses no more than 2.0 gallons per minute.
+
+Using those flow rates:
+
+| Shower Length | Standard Showerhead | WaterSense Showerhead | Water Saved |
+|---|---:|---:|---:|
+| 5 minutes | 12.5 gallons | 10 gallons | 2.5 gallons |
+| 10 minutes | 25 gallons | 20 gallons | 5 gallons |
+| 20 minutes | 50 gallons | 40 gallons | 10 gallons |
+
+The basic calculation is:
+
+**Water used = shower time × showerhead flow rate**
 
 ## What This Shows
 
