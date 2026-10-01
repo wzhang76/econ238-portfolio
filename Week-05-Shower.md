@@ -26,6 +26,10 @@ The basic calculation is:
 
 **Water used = shower time × showerhead flow rate**
 
+If we look further ahead to a year, the differences will be even more obvious. The US Environmental Protection Agency estimates that an average household can save approximately 2,700 gallons of water each year by using WaterSense showerheads.
+
+This of course means that it can save a lot of money. Because using less hot water means using less energy to heat it. According to data from the EPA, for the average household, WaterSense showerheads can help them save approximately $70 to $75 on water and energy costs each year.
+
 ## What This Shows
 
 I will explain the main result here after completing the calculations.
