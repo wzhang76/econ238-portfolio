@@ -40,7 +40,13 @@ Another economic perspective is that such a change does not require people to co
 
 ## Assumptions and Limitations
 
-I will list the assumptions used in the calculation here.
+For comparison, I assume that the standard showerhead consumes 2.5 gallons of water per minute, while the WaterSense showerhead consumes 2.0 gallons per minute. Meanwhile, I also assume that the flow rate remains constant throughout the entire shower process.
+
+Because the showerhead, water pressure and shower habits are not always the same, the actual water consumption may vary. For instance, some people might also turn off the water when taking a shower, which will reduce the total water consumption.
+
+Furthermore, since the EPA's annual water savings are based on an average household, the amount of water saved by a household may also depend on the number of people, the frequency and duration of their bathing, local water prices, and the type of energy used to heat water, among other factors.
+
+The above are some possible variables.
 
 ## Sources
 
