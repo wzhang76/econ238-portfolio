@@ -32,11 +32,13 @@ The basic calculation is:
 
 ## What This Shows
 
-The first thing that surprised me was how small the temperature change from 1 GtCO2 looks by itself. An increase of 0.00045°C is almost impossible to notice on its own.
+One thing that surprised me was how small the temperature change of one billion tons of carbon dioxide itself seemed. An increase of 0.00045°C is almost impossible to be noticed, especially when we usually consider one billion tons to be a very large figure. This made me realize that the size of an emission figure sounds to have a much greater impact on temperature than the figure itself.
 
-But the important part is that CO2 adds up over time. If emissions increase by ten times, the expected warming also increases by about ten times in this simple calculation.
+But more importantly, carbon dioxide will accumulate over time. In this simple calculation, if emissions increase tenfold, the expected warming will also increase by approximately tenfold. This means that the main problem is not one billion tons of carbon dioxide, but rather a large amount of carbon dioxide is constantly being added to the atmosphere year after year. This will be a super large number.
 
-One current year of global fossil CO2 emissions is about 38.1 GtCO2, which comes out to roughly 0.017°C of expected warming. That still looks small for one year, but continuing to emit similar amounts year after year makes the total much larger.
+At present, the annual global emissions of carbon dioxide from fossil fuels are approximately 38.1 billion tons of carbon dioxide, which means that the expected temperature increase is about 0.017 degrees Celsius. If we only look at one year, this is still a very small number. However, if emissions remain at a similar level for many years, their impact will continue to intensify. For instance, the cumulative amount of carbon dioxide represented by emissions over ten years at the same level will be far greater than that in one year.
+
+This contrast also helped me understand why cumulative emissions are so important in climate discussions. The impact of carbon dioxide is not only related to how much is emitted in a year, but also to how much is increased over a longer period of time.
 
 ## Assumptions and Limitations
 
