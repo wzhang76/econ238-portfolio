@@ -48,5 +48,5 @@ This is also a simplified calculation. I am only looking at cumulative CO2 emiss
 
 ## Sources
 
-- IPCC AR6 Working Group I, Summary for Policymakers
-- Global Carbon Budget 2025
+- [IPCC AR6 Working Group I, Summary for Policymakers](https://www.ipcc.ch/report/ar6/wg1/chapter/summary-for-policymakers/)
+- [Global Carbon Budget 2025](https://globalcarbonbudget.org/)
