@@ -16,6 +16,8 @@ The EPA says a standard showerhead uses about 2.5 gallons of water per minute, w
 
 Using those flow rates:
 
+![Water Use by Shower Length](shower_water_use_chart.png)
+
 | Shower Length | Standard Showerhead | WaterSense Showerhead | Water Saved |
 |---|---:|---:|---:|
 | 5 minutes | 12.5 gallons | 10 gallons | 2.5 gallons |
