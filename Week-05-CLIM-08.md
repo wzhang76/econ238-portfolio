@@ -2,9 +2,10 @@
 
 ## The Question
 
-We hear numbers like “one billion tons of CO2” pretty often, but I realized that I did not really know what that meant in terms of actual temperature change.
+We always hear about large amounts of carbon dioxide emissions, especially when people talk about climate change.   Figures like "1 billion tons of carbon dioxide" sound serious, but I realized that I actually didn't have a clear understanding of what this figure meant in terms of temperature.   I knew that more emissions would lead to more warming, but I really couldn't imagine how much warming a certain amount of carbon dioxide would cause.
 
-For this project, I wanted to see what 1 GtCO2, 10 GtCO2, 100 GtCO2, and about one year of current global CO2 emissions would mean for global warming.
+So I wanted to make these numbers more intuitive and easier to understand.
+In this project, I decided to compare 1 GtCO2, 10 GtCO2, 100 GtCO2, and about one current year of global carbon dioxide emissions.   I hope to better understand the relationship between individual amounts of emissions and long-term global warming by converting each amount into an expected temperature rise.
 
 ## What I Asked AI to Do
 
