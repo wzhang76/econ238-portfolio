@@ -50,4 +50,5 @@ The above are some possible variables.
 
 ## Sources
 
-Sources will be added here.
+- [U.S. EPA WaterSense — Showerheads](https://www.epa.gov/watersense/showerheads)
+- [U.S. EPA WaterSense — Statistics and Facts](https://www.epa.gov/watersense/statistics-and-facts)
