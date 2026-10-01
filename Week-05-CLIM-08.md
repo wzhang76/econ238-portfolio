@@ -42,11 +42,11 @@ This contrast also helped me understand why cumulative emissions are so importan
 
 ## Assumptions and Limitations
 
-For this calculation, I used the IPCC best estimate of TCRE, which is 0.45°C per 1,000 GtCO2.
+For this calculation, I used the IPCC estimate that every 1,000 GtCO2 of cumulative emissions would lead to about 0.45°C of warming.
 
-This is not an exact number. The IPCC gives a likely range of about 0.27°C to 0.63°C per 1,000 GtCO2, so the actual temperature effect could be lower or higher.
+Of course, this is only an estimate, not an exact number. The IPCC gives a possible range from about 0.27°C to 0.63°C per 1,000 GtCO2, so the real temperature change could be a little lower or higher.
 
-This is also a simplified calculation. I am only looking at cumulative CO2 emissions here. I am not separately modeling other greenhouse gases, aerosols, or short-term temperature changes.
+This calculation is also very simplified. I am only focusing on cumulative CO2 emissions here. I did not separately include other greenhouse gases, aerosols, or short-term changes in temperature.
 
 ## Sources
 
