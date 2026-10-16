@@ -37,3 +37,18 @@ We cannot promise that a 35-foot buffer will remove enough pollution to justify 
 Farmers would also lose productive land and pay part of the installation cost, which could hurt smaller farms more. Some may refuse to participate, leaving the pilot with no suitable sites.
 
 A three-year program might be too short to see the full benefits of newly planted trees and shrubs. And public money spent here cannot go toward other needs, such as roads, schools, or different water-quality projects.
+
+The question we are most concerned about is whether there are really enough farmers willing to participate in this program. After all, even if government grants can cover most of the costs, farmers still need to lose some land that could have been used to grow apples, and at the same time, they have to pay for maintenance. This is a considerable expense for them. For some small apple orchards, it can even be regarded as a considerable burden.
+Meanwhile, our budget of $50,000 is only an estimate. The actual cost may be even higher. Another problem is that plant buffer zones cannot prevent all types of pollution. Some agricultural runoff may directly enter rivers through drainage pipes or other means.
+If too few farmers participate or the plant buffer zone fails to achieve the expected effect, the actual environmental benefits may be far lower than our original expectations.
+
+## Why Isn't This Already Happening?
+
+If plant buffering can improve the environment, why don't all orchards adopt this method?
+
+The reason is that the costs that farmers need to bear are rather heavy. They not only need to lose some land and remove apple trees, but also maintain the newly planted plants. However, the benefits brought by the improvement of water quality are shared by local residents and the ecological environment. In other words, these benefits are not eye-catching enough. Therefore, it is quite understandable that not many people are particularly willing to do so.
+
+Government grants can alleviate this problem, but the funds need to be applied for through competition, and the entire process is rather time-consuming. Moreover, it requires cooperation between landowners and environmental protection workers.
+Some farmers may prefer to keep apple trees that can generate income, especially when the future environmental benefits are still uncertain. While nearby residents hope for improved water quality, they may not be willing to use public tax revenue to support private farms.
+
+The above reasons can explain why such a seemingly beneficial environmental protection plan will not be automatically and widely implemented.
