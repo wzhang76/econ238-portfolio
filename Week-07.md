@@ -27,3 +27,13 @@ On the contrary, we merely hope that farmers will set aside a small portion of t
 Government grants can cover most of the construction costs, making it easier for farmers who are willing to participate to accept this change. Moreover, the technologies and policies we use are not new. The existing agricultural water quality protection programs of the United States Department of Agriculture and New York State have already supported similar measures.
 
 If the pilot program is successful, the county government may consider inviting more orchards to join in the future. In this way, we will have the opportunity to understand whether sacrificing a small amount of land can really improve the environment without seriously affecting the local apple industry.
+
+## The Best Case for NO
+
+The proposal sounds reasonable, but it may not be a good use of public money.
+
+We cannot promise that a 35-foot buffer will remove enough pollution to justify its cost at every orchard. Soil type, slope, rainfall, and farm practices all matter. The streams may receive pollution from other properties, so improvements might be hard to measure.
+
+Farmers would also lose productive land and pay part of the installation cost, which could hurt smaller farms more. Some may refuse to participate, leaving the pilot with no suitable sites.
+
+A three-year program might be too short to see the full benefits of newly planted trees and shrubs. And public money spent here cannot go toward other needs, such as roads, schools, or different water-quality projects.
