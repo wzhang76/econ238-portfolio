@@ -63,3 +63,17 @@ The above reasons can explain why such a seemingly beneficial environmental prot
 3. USDA Natural Resources Conservation Service. [Riparian Forest Buffer](https://www.nrcs.usda.gov/conservation-basics/land/forests/agroforestry-systems/riparian-forest-buffer)
 
 4. New York State Department of Agriculture and Markets. [Agricultural Nonpoint Source Abatement and Control Program](https://agriculture.ny.gov/node/5336)
+
+---
+
+## Vote on the Proposal
+
+### Would You Take This Deal?
+
+Please read our proposal and share your opinion!
+
+You can vote YES, NO, or YES, IF...
+
+**[Click Here to Vote](https://docs.google.com/forms/d/e/1FAIpQLSc75UWRI3KZfzRKy_BtgDlIOGpNORz0SXccSwr-Aehx6ixJaA/viewform)**
+
+Your vote will be anonymous. Thank you for participating!
