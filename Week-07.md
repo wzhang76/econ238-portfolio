@@ -53,3 +53,13 @@ Government grants can alleviate this problem, but the funds need to be applied f
 Some farmers may prefer to keep apple trees that can generate income, especially when the future environmental benefits are still uncertain. While nearby residents hope for improved water quality, they may not be willing to use public tax revenue to support private farms.
 
 The above reasons can explain why such a seemingly beneficial environmental protection plan will not be automatically and widely implemented.
+
+## Sources
+
+1. USDA National Agricultural Statistics Service (2024). [New York State Agriculture Overview](https://www.nass.usda.gov/Quick_Stats/Ag_Overview/stateOverview.php?state=New+York&year=2024)
+
+2. New York Apple Association. [Discover New York State Apples](https://www.applesfromny.com/)
+
+3. USDA Natural Resources Conservation Service. [Riparian Forest Buffer](https://www.nrcs.usda.gov/conservation-basics/land/forests/agroforestry-systems/riparian-forest-buffer)
+
+4. New York State Department of Agriculture and Markets. [Agricultural Nonpoint Source Abatement and Control Program](https://agriculture.ny.gov/node/5336)
