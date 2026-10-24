@@ -9,3 +9,4 @@ University of Rochester
 - [Week 5 — What Does One Billion Tons of CO2 Do?](Week-05-CLIM-08.md)
 - [Week 5 — How Much Water Does a Shower Actually Use?](Week-05-Shower.md)
 - [Week 7 — The Orchard Stream Buffer Initiative](https://wzhang76.github.io/econ238-portfolio/Week-07.html)
+- [Week 8 — The Fog That Stopped London: The Price of a Warm Home](https://wanqingzhang1.substack.com/p/the-fog-that-stopped-london-the-price)
