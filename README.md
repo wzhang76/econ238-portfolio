@@ -10,3 +10,4 @@ University of Rochester
 - [Week 5 — How Much Water Does a Shower Actually Use?](Week-05-Shower.md)
 - [Week 7 — The Orchard Stream Buffer Initiative](https://wzhang76.github.io/econ238-portfolio/Week-07.html)
 - [Week 8 — The Fog That Stopped London: The Price of a Warm Home](https://wanqingzhang1.substack.com/p/the-fog-that-stopped-london-the-price)
+- [Week 9 — Environmental Justice: Who Actually Gets the Benefits?](./week-09-creative/)
