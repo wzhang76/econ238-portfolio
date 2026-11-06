@@ -2,8 +2,10 @@
 
 ## Keep One Tunnel for Student Voices
 
-[📄 View Our NOTICE Card — Keep One Tunnel for Student Voices](Notice%20Card.pdf)
+![Keep One Tunnel for Student Voices](Notice-Card.png)
 
 ### Our Question
 
 **Do we still support student voices when we disagree with what they are saying?**
+
+[View the full PDF version](Notice%20Card.pdf)
