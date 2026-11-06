@@ -2,7 +2,7 @@
 
 ## Keep One Tunnel for Student Voices
 
-![Keep One Tunnel for Student Voices](week-10-moat-notice.png)
+[📄 View Our NOTICE Card — Keep One Tunnel for Student Voices](Notice%20Card.pdf)
 
 ### Our Question
 
