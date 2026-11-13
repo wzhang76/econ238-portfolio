@@ -12,3 +12,4 @@ University of Rochester
 - [Week 8 — The Fog That Stopped London: The Price of a Warm Home](https://wanqingzhang1.substack.com/p/the-fog-that-stopped-london-the-price)
 - [Week 9 — Environmental Justice: Who Actually Gets the Benefits?](./week-09-creative/)
 - [Week 10 — MOATS: Keep One Tunnel for Student Voices](Week-10.md)
+- [Week 11 — What If ChatGPT Could Help Pay Our Heating Bills?](Week-11.md)
